@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @KingNQS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Eris+!;Welcome+to+my+Github+!)](https://github.com/ProCoderEris)
 
-<!---
-KingNQS/KingNQS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+class About extends Me {
+    static fullName = "Nguyễn Quang Sáng";
+    static getCurrentWorkplace () {
+        return {
+            Workplace: {
+                Company: 'Eris',
+                Position: 'Founder'
+            }
+        }
+    }
+    static showProgrammingLevel () {
+        return {
+            JavaScript: '35%',
+            NodeJS: '63%',
+            Python: '2%'
+        }
+    }
+    static socialAndContact () {
+        return {
+            Social: {
+                Website: 'https://quangsangblog.com/',
+                Github: 'https://github.com/ProCoderEris/'
+            },
+            Contact: {
+                Email: 'quangsang.official@gmail.com'
+            }
+        }
+    }
+    static buyMeACoffee () {
+        if (you_like_what_i_do)
+            try {
+                maybe_consider_buying_me_a_coffee();
+                return 'https://ko-fi.com/kearu';   
+            } catch {
+                return 'Thanks for visiting !';
+            }
+    }
+}
+```
